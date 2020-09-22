@@ -1,0 +1,7 @@
+{
+    "baseUrl": "https://petstore.swagger.io/v2",
+    "env": {
+        "username": "test",
+        "password": "abc123"
+      }
+}
