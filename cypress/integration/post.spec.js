@@ -21,8 +21,7 @@ describe('test creation API', () => {
   });
 
  
-  it('Create RE Site', function (){
-
+  it('Add a new pet to the store', function (){
 
     cy.request({
 
